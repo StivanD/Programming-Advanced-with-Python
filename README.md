@@ -1,6 +1,6 @@
 # Programming-Advanced-with-Python
 
-Here are solutions of all exercises from Programming Advanced with Python - the first of two modules from the course Python Advanced by Softuni (Software University)
+Here are the solutions of all exercises from **Programming Advanced with Python** - the first of two modules from the course **Python Advanced** by **Softuni** (Software University)
 
 SoftUni - https://softuni.bg/
 
